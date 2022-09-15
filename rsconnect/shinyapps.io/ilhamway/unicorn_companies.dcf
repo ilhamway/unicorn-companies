@@ -1,0 +1,14 @@
+name: unicorn_companies
+title: unicorn_companies
+username:
+account: ilhamway
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6754957
+bundleId: 6180132
+url: https://ilhamway.shinyapps.io/unicorn_companies/
+when: 1659975625.07277
+lastSyncTime: 1659975625.0728
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: companies.Rmd
